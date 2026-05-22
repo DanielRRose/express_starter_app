@@ -12,7 +12,7 @@ A simple Express application with prebuild and organized file structure.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DanielRRose/express_starter_app.git
    ```
 2. Install dependencies:
    ```bash
