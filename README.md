@@ -19,7 +19,7 @@ A simple Express application with prebuild and organized file structure.
    npm install
    ```
 3. Set type to "module"
-   Make sure to set "type": "module" in package.json, or add if missing.
+   * Make sure to set "type": "module" in package.json, or add if missing. *
 
 ### Running the App
 ```bash
