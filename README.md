@@ -30,11 +30,18 @@ npm start
 ```
 my-express-app/
 ├── src/
-│   ├── app.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   └── routes/
-│       └── userRoutes.js
+│   ├── config
+|   ├── controllers
+|   ├── middleware
+|   ├── models
+│   ├── public/
+│       └── css
+│   ├── routes
+│   ├── services
+│   ├── utils
+│   ├── views/
+│       └── user
+├── app.js
 ├── server.js
 ├── package.json
 └── README.md
